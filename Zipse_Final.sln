@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zipse_Final", "Zipse_Final.csproj", "{8CEE4A42-ED95-4F00-898C-30AFD661FD08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CEE4A42-ED95-4F00-898C-30AFD661FD08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CEE4A42-ED95-4F00-898C-30AFD661FD08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CEE4A42-ED95-4F00-898C-30AFD661FD08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CEE4A42-ED95-4F00-898C-30AFD661FD08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C90253A2-F7FA-4F0A-A18F-1D506F8018CE}
+	EndGlobalSection
+EndGlobal
